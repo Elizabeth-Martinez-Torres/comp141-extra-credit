@@ -1,11 +1,1 @@
-mkdir extra-credit
-cd extra-credit
-git init
-touch main.sh
-chmod +x main.sh
-git add main.sh
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Elizabeth-Martinez-Torres/comp141-extra-credit.git
-git push -u origin main
-vi data.txt
+
